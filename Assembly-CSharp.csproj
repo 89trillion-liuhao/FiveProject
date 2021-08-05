@@ -58,6 +58,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Script\Action\DrawCanvas.cs" />
+     <Compile Include="Assets\Script\Action\GoldAction.cs" />
+     <Compile Include="Assets\Script\Action\MarkAction.cs" />
+     <Compile Include="Assets\Script\Action\Move.cs" />
      <Compile Include="Assets\Script\Object\Glod.cs" />
      <Compile Include="Assets\Script\Object\Player.cs" />
  <Reference Include="Unity.Timeline.Editor">
